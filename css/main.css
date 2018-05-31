@@ -97,7 +97,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-   /* Navbar */
+/* Custom */
+.margin-zero {
+    margin: 0px;
+}
+/* Navbar */
 .navbar {
     border-radius: 0px;
     margin-bottom: 0px;
